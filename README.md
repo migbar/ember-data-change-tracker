@@ -1,27 +1,6 @@
-# ember-data-change-tracker
+# Ember Data Change Tracker
 
-This README outlines the details of collaborating on this Ember addon.
+Easily track changes to your ember-data model's relationships and/or complex attributes.
+Ember Data Change Tracker seamlessly track the changes to your model relationships and or attribute changes when dealing with complex objects, making it easier to inquire about all aspects of the model which have changed
 
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd ember-data-change-tracker`
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+(... more docs to come)
